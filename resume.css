@@ -1,0 +1,44 @@
+body {
+  font-family: 'Times New Roman';
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section-header {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.section-content {
+  margin-left: 20px;
+}
+
+.link {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+.project {
+  margin-bottom: 10px;
+}
+
+.interests {
+  list-style-type: disc;
+  margin-left: 20px;
+}
